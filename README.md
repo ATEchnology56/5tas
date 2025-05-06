@@ -1,3 +1,3 @@
 # 5 taş
 
-[under the maintance](https://example.com)
+[İndir](https://github.com/ATEchnology56/5tas/releases)
